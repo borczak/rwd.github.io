@@ -1,0 +1,26 @@
+body {
+    margin: 0 auto;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    background-image: url(man-1.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header h1 {
+    margin: 20px;
+    font-size: 30px;
+}
+
+header h2 {
+    font-size: 20px;
+    margin: 20px;
+}
