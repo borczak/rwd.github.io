@@ -1,9 +1,8 @@
 @media all and (max-width: 1170px) {
     header {
         background-image: url(man-2.jpg);
-        background-size: 70%vh;
+        height: 70vh;
         background-repeat: no-repeat;
-        background-position: top;
         align-items: flex-end;
         justify-content: flex-start;
         
@@ -21,10 +20,8 @@
 
     header {
         background-image: url(man-1.jpg);
-        background-size: 50%vh;
-        background-position: top;
-        background-repeat: no-repeat;
-        justify-content: flex-end;
+        height: 50vh;
+       justify-content: flex-end;
         align-items: center;
         position: relative;
     }
